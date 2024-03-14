@@ -7,7 +7,7 @@ A passkey, stored on your computer, phone, or password manager, is a FIDO creden
 ### **Contribute to the broad adoption of passkeys!**
 This is a living list. If you are aware of other solutions, websites or platforms not listed here, please submit a PR!
 
-### **Platforms** {#platforms}
+### **Platforms** {#platforms}  
 
 | Logo | Company | Product |
 | --- | --- | --- |
@@ -90,6 +90,7 @@ This is a living list. If you are aware of other solutions, websites or platform
 | Logo | Company | Security Product |
 | --- | --- | --- |
 | ![logo](/public/logos/bitwarden.svg) | Bitwarden | Bitwarden Passwordless.dev |
+| ![logo](/public/logos/bitwarden.svg) | Bitwarden | Bitwarden Passwordless.dev | //test do not add
 
 ### **Security keys** {#security-keys}
 
